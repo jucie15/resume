@@ -112,25 +112,47 @@
 
 
 ## Skills
+
+| Degree       | Description                                  |
+| ------------ | -------------------------------------------- |
+| Beginner     | 해 본 경험이 있다.                           |
+| Basic        | 읽고 쓰는게 가능하다.                        |
+| Intermediate | 구글과 함께라면 주어진 문제를 해결 가능하다. |
+| Advanced     | 질의응답 및 조언도 가능하다.                 |
+| Expert       | 무엇이든 해결할 수 있다.                     |
+
 ### Programming Language
 
-- Python, Javascript, C, Java, HTML, CSS, Shell
+- Python (Intermediate Low)
+- Javascript (Basic Mid)
+- C (Basic High)
+- Java (Beginner High)
+- HTML (Basic High)
+- CSS (Basic High)
 
 ### Framework / Library
 
-- Django, Django Rest Framework, Node.js
+- Django (Intermediate Low)
+- Django Rest Framework (Basic High)
+- Node.js (Beginner High)
 
 ### Server
 
-- AWS, Docker, Nginx, MySQL, PostgreSQL
+- AWS (Basic Low)
+- Docker (Beginner Mid)
+- Nginx (Beginner Mid)
+- MySQL (Basic Low)
+- PostgreSQL (Basic Low)
 
 ### Environment
 
-- Linux, macOS, Windows
+- Linux (Basic Mid)
+- macOS (Intermediate Low)
+- Windows  (Intermediate Low)
 
 ### Todo
 
-- TDD, Serverless, MSA, ReactJS
+- TDD, Container, Serverless, MSA, ReactJS
 
 
 
