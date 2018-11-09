@@ -30,85 +30,69 @@
    - Google Analytics를 통한 전자상거래 트래킹
    - DataWareHouse(데이터 분석용 디비) 설계 및 구축 등
 
-   
-
-2. **Gustos 창업자**(2016.03~2016.10)
+2. **Gustos 창업자**(2016.03~2016.12)
 
    - Lostic – 위치기반 스마트 입장권이라는 아이디어로 창업
    - 안드로이드, 서버 개발 및 3D 프린트를 이용한 팔찌 프로토 타이핑
    - BLE 모듈을 이용한 위치기반 팔찌로 서버 개발(node.js) 및 BLE 기능 테스트
 
-   
+
 
 ## Personal Project
 
-1. **Re.duce – 타임커머스 서비스** (2017.10~2017.12) <a href="https://github.com/showmethepeach/Re.duce">![Reduce](https://img.shields.io/badge/Github-Reduce-brightgreen.svg)</a>
+1. **타이밍즈** - 시간 공유 서비스(2017.12~2018.06)
+
+   - 시간이 남는 사람과 시간이 필요한 사람을 연결해주는 시간 공유 서비스
+   - 기획 및 MVP모델 개발
+
+2. **Re.duce – 타임커머스 서비스** (2017.10~2017.12) <a href="https://github.com/showmethepeach/Re.duce">![Reduce](https://img.shields.io/badge/Github-Reduce-brightgreen.svg)</a>
 
    - 현재 숙소, 항공권 관련 서비스와 다른 식품, 놀이공간에 대한 타임커머스
    - 기획 및 DRF를 이용한 백엔드 개발
 
-   
-
-2. **국민회관 – 태그 기반 정치 이슈 알림 서비스**(2017.06~2017.09) <a href="https://github.com/jucie15/Piggies">![국민회관](https://img.shields.io/badge/Github-%EA%B5%AD%EB%AF%BC%ED%9A%8C%EA%B4%80-brightgreen.svg)</a>
+3. **국민회관 – 태그 기반 정치 이슈 알림 서비스**(2017.06~2017.09) <a href="https://github.com/jucie15/Piggies">![국민회관](https://img.shields.io/badge/Github-%EA%B5%AD%EB%AF%BC%ED%9A%8C%EA%B4%80-brightgreen.svg)</a>
 
    - ‘어떻게 하면 사람들이 정치에 좀 더 관심을 가질까?’   
    - PLEDGE를 개발하던 중 정치자체에 관심이 없음을 파악 국민회관으로 새롭게 기획 개발 
    - 사람들이 관심있는 분야와 관련된 정치적 이슈를 정리하고 알려주는 서비스
    - 기획 및 Django를 이용한 웹 개발
 
-   
-
-3. **Pledge – 공약 검증 서비스** (2017.04~2017.05) <a href="https://github.com/jucie15/NoCaffeine">![Pledge](https://img.shields.io/badge/Github-Pledge-brightgreen.svg)</a>
+4. **Pledge – 공약 검증 서비스** (2017.04~2017.05) <a href="https://github.com/jucie15/NoCaffeine">![Pledge](https://img.shields.io/badge/Github-Pledge-brightgreen.svg)</a>
 
    - 선거에서 나오는 공약들 잘 지켜지고 있을까?
    - 기획 및 Django를 이용한 웹 개발
 
-   
-
-4. **유니티 게임 개발** (2013.04~2014.01)
+5. **유니티 게임 개발** (2013.04~2014.01)
 
    - 유니티 러닝 센터 unity3D 게임 개발 초급 과정 이수(간단한 FPS 게임 구현)
    - 카드 게임, 지렁이 게임 등 개발(C# 이용)
 
-   
+
 
 ## Activity
 
-1. **DRF 스터디** (2017.09~2017.11)  <a href="https://github.com/django-rest-framework-study/weeklystudy">![Pledge](https://img.shields.io/badge/Github-DRFstudy-brightgreen.svg)</a>
-
+1. **얼리버드-데이터분석 스터디** (2017.10~2017.12)  <a href="http://earlybird.ai/main/python-analytics-basic/?fbclid=IwAR0_ZDXJXdmjR4IrrAaXKwE8xjc2cbHNZX_AkD8t-aG0v9KuMgqNEcMbYCA">![Earlybird](https://img.shields.io/badge/Earlybird-DataAnalytics-brightgreen.svg)</a>
+   - Python을 이용한 데이터분석 스터디
+   - Nimby현상으로 보는 집 값 변동율 분석
+2. **DRF 스터디** (2017.09~2017.11)  <a href="https://github.com/django-rest-framework-study/weeklystudy">![Pledge](https://img.shields.io/badge/Github-DRFstudy-brightgreen.svg)</a>
    - Django Rest Framework 스터디
    - [DRF-docs](http://www.django-rest-framework.org/) API Guide를 정리하며 스터디 진행
-
-   
-
-2. **피로그래밍 7기 멘토** (2017.06~2017.08)
-
+3. **피로그래밍 7기 멘토** (2017.06~2017.08)
    - QAM서비스 개발 멘토 및 인프라 구축 및 배포
-
-   
-
-3. **피로그래밍 6기** – 서울대 웹 프로그래밍 동아리 (2016.12~2017.02)
+4. **피로그래밍 6기** – 서울대 웹 프로그래밍 동아리 (2016.12~2017.02)
 
    - Comiety – 전국 동아리 교류를 위한 서비스
    - 기획 및 Django를 이용한 웹 개발
-
-   
-
-4. **C 언어 튜터링 및 수업 조교**
-
+5. **C 언어 튜터링 및 수업 조교**
    - 학부생을 위한 C언어 튜터링 강사  (2012.09~2013.12)
    - C 프로그래밍 수업 조교(외국인 클래스와 신입생 클래스)  (2016.03~2016.07)
-
-   
-
-5. **알고리즘 연구실** (2012.12~2014.03)
+6. **알고리즘 연구실** (2012.12~2014.03)
 
    - 교내 알고리즘 연구실 학부연구원
    - 기초프로그래밍설계 수업 조교
    - 데이터 구조론 수업 조교
    - 알고리즘 수업 조교
 
-   
 
 
 ## Skills
@@ -162,7 +146,7 @@
 - Trello, Jira
 - Confluence Wiki, Google Docs & Drive, Typora
 - Slack, Hangouts Chat
-- Github, Bitbucket
+- Github, GitLab, Bitbucket
 - GitKraken
 - iTerm2, PyCharm, Sublime Text
 - Zeplin, AdobeXD
