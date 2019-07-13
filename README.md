@@ -23,15 +23,21 @@
 
 ## Experience
 
-1. **(주)다노 백엔드 개발자**  (2018.01~2018.06)
-
+1. **시나몬 창업자** (2018.12~ ) 
+   - 시나몬 커뮤니티 관리자
+   - 시나몬 서비스 기획 및 프로젝트 매니징
+2. **프레스토 개발 리드** (2019.04~ )
+   - 프레스토 거래소 기획 및 개발
+   - 서버 운영 및 프로젝트 매니징
+3. **(주) 퍼즐웍스 프로젝트 매니저 및 백엔드 개발자**  (2018.07~2018.12)
+   - 퍼즐웍스 플랫폼 관리자 페이지 및 백엔드 개발
+   - 퍼즐웍스 파트너 프로젝트 매니징
+4. **(주)다노 백엔드 개발자**  (2018.01~2018.06)
    - Django를 이용한 다노샵 서버 운영, 개선 업무
    - 개발 환경 분리 및 협업시스템 도입
    - Google Analytics를 통한 전자상거래 트래킹
    - DataWareHouse(데이터 분석용 디비) 설계 및 구축 등
-
-2. **Gustos 창업자**(2016.03~2016.12)
-
+5. **Gustos 창업자**(2016.03~2016.12)
    - Lostic – 위치기반 스마트 입장권이라는 아이디어로 창업
    - 안드로이드, 서버 개발 및 3D 프린트를 이용한 팔찌 프로토 타이핑
    - BLE 모듈을 이용한 위치기반 팔찌로 서버 개발(node.js) 및 BLE 기능 테스트
@@ -40,29 +46,27 @@
 
 ## Personal Project
 
-1. **타이밍즈** - 시간 공유 서비스(2017.12~2018.06)
-
+1. **노회찬재단**(2019.05~2019.07)<a href="http://hcroh.org/">![노회찬재단](https://img.shields.io/badge/Web-Hcroh-blue.svg)</a>
+   - 프론트 및 관리자 페이지 개발
+2. **울쎄라** (2018.10~2019.01) <a href="https://play.google.com/store/apps/details?id=kr.co.ulthera.ulthera">![Ulthera AppStore](https://img.shields.io/badge/AppStore-Ulthera-blue.svg)</a>
+   - 백엔드 및 관리자 페이지 개발
+3. **타이밍즈 - 시간 공유 서비스**(2017.12~2018.06)
    - 시간이 남는 사람과 시간이 필요한 사람을 연결해주는 시간 공유 서비스
    - 기획 및 MVP모델 개발
-
-2. **Re.duce – 타임커머스 서비스** (2017.10~2017.12) <a href="https://github.com/showmethepeach/Re.duce">![Reduce](https://img.shields.io/badge/Github-Reduce-brightgreen.svg)</a>
+4. **Re.duce – 타임커머스 서비스** (2017.10~2017.12) <a href="https://github.com/showmethepeach/Re.duce">![Reduce](https://img.shields.io/badge/Github-Reduce-brightgreen.svg)</a>
 
    - 현재 숙소, 항공권 관련 서비스와 다른 식품, 놀이공간에 대한 타임커머스
    - 기획 및 DRF를 이용한 백엔드 개발
-
-3. **국민회관 – 태그 기반 정치 이슈 알림 서비스**(2017.06~2017.09) <a href="https://github.com/jucie15/Piggies">![국민회관](https://img.shields.io/badge/Github-%EA%B5%AD%EB%AF%BC%ED%9A%8C%EA%B4%80-brightgreen.svg)</a>
-
-   - ‘어떻게 하면 사람들이 정치에 좀 더 관심을 가질까?’   
+5. **국민회관 – 태그 기반 정치 이슈 알림 서비스**(2017.06~2017.09) <a href="https://github.com/jucie15/Piggies">![국민회관](https://img.shields.io/badge/Github-%EA%B5%AD%EB%AF%BC%ED%9A%8C%EA%B4%80-brightgreen.svg)</a>
+- ‘어떻게 하면 사람들이 정치에 좀 더 관심을 가질까?’   
    - PLEDGE를 개발하던 중 정치자체에 관심이 없음을 파악 국민회관으로 새롭게 기획 개발 
    - 사람들이 관심있는 분야와 관련된 정치적 이슈를 정리하고 알려주는 서비스
    - 기획 및 Django를 이용한 웹 개발
-
-4. **Pledge – 공약 검증 서비스** (2017.04~2017.05) <a href="https://github.com/jucie15/NoCaffeine">![Pledge](https://img.shields.io/badge/Github-Pledge-brightgreen.svg)</a>
+6. **Pledge – 공약 검증 서비스** (2017.04~2017.05) <a href="https://github.com/jucie15/NoCaffeine">![Pledge](https://img.shields.io/badge/Github-Pledge-brightgreen.svg)</a>
 
    - 선거에서 나오는 공약들 잘 지켜지고 있을까?
    - 기획 및 Django를 이용한 웹 개발
-
-5. **유니티 게임 개발** (2013.04~2014.01)
+7. **유니티 게임 개발** (2013.04~2014.01)
 
    - 유니티 러닝 센터 unity3D 게임 개발 초급 과정 이수(간단한 FPS 게임 구현)
    - 카드 게임, 지렁이 게임 등 개발(C# 이용)
