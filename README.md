@@ -111,26 +111,26 @@
 
 ### Programming Language
 
-- Python (Intermediate Low)
-- Javascript (Basic Mid)
-- C (Basic High)
+- Python (Intermediate High)
+- Javascript (Intermediate Mid)
+- C (Basic Mid)
 - Java (Beginner High)
-- HTML (Basic High)
-- CSS (Basic High)
+- HTML (Intermediate Mid)
+- CSS (Intermediate Low)
 
 ### Framework / Library
 
-- Django (Intermediate Low)
-- Django Rest Framework (Basic High)
+- Django (Advanced Mid)
+- Django Rest Framework (Advanced Low)
 - Node.js (Beginner High)
 
 ### Server
 
-- AWS (Basic Low)
-- Docker (Beginner Mid)
-- Nginx (Beginner Mid)
-- MySQL (Basic Low)
-- PostgreSQL (Basic Low)
+- AWS (Intermediate Mid)
+- Docker (Basic Mid)
+- Nginx (Intermediate Low)
+- MySQL (Intermediate Mid)
+- PostgreSQL (Intermediate Mid)
 
 ### Environment
 
@@ -147,7 +147,7 @@
 
 ## Tools 
 
-- Trello, Jira
+- Trello, Jira, Notion
 - Confluence Wiki, Google Docs & Drive, Typora
 - Slack, Hangouts Chat
 - Github, GitLab, Bitbucket
@@ -159,5 +159,5 @@
 
 ##### — 여기까지 읽어주셔서 감사합니다.
 
-##### — 솔직한 피드백을 나누고 싶습니다. <a href="mailto:pjwukk@gmail.com">![Email](https://img.shields.io/badge/Email-pjwukk%40gmail.com-red.svg)</a>을 통해 연락주세요.
+##### — 솔직한 피드백을 나누고 싶습니다. <a href="mailto:pjwukk@gmail.com">![Email](https://img.shields.io/badge/Email-pjwukk%40gmail.com-red.svg)</a>을 통해 연락 부탁드릴게요ㅎㅎㅎ.
 
